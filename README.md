@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 <h1 align="left">Assalamu Alaikum (Peace be upon you)</h1>
 
 ###
@@ -42,4 +39,3 @@
 </div>
 
 ###
--->
